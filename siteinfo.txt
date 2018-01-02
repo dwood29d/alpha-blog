@@ -1,1 +1,5 @@
 http://alpha-blog-dwood29d.herokuapp.com/
+
+starting the server
+
+rails s -b $IP -p $PORT
